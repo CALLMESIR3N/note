@@ -1,4 +1,8 @@
-# Just a Note nothing fancy here.. Sorry
+---
+description: I don't know.. Just want to added
+---
 
-Why using this kinda method? why not using something like joplin, notion, etc.
-I like it this way, because it's easy to access anywhere :)
+# README
+
+Why using this kinda method? why not using something like joplin, notion, etc. I like it this way, because it's easy to access anywhere :\)
+
